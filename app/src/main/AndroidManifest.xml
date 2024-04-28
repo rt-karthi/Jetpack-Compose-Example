@@ -20,7 +20,7 @@
             android:exported="false"/>
 
         <activity
-            android:name=".MainActivityTwo"
+            android:name=".TextFields"
             android:exported="true"
             android:theme="@style/Theme.MyApplication">
             <intent-filter>
